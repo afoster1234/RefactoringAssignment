@@ -1,5 +1,4 @@
 public class InsuranceCalculator {
-
     private InsuranceStrategyVeryHigh strategy;
 
     public double calculateInsurance(double income) {
